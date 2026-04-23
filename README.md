@@ -13,16 +13,15 @@ Usage bars — Session (5-hour) and weekly (7-day) usage from Claude's native AP
 Installation
 Chrome / Edge / Chromium
 
-Download claude-counter-0.4.2.zip
-Go to chrome://extensions and enable Developer mode
-Drag and drop the zip onto the page
-Firefox
+1. Download claude-counter-0.4.2.zip
+2. Go to chrome://extensions and enable Developer mode
+3. Drag and drop the zip onto the page Firefox
 
-Download claude-counter-0.4.2.xpi
-Drag it into any Firefox window and click Add
-Userscript
+4. Download claude-counter-0.4.2.xpi
+5. Drag it into any Firefox window and click Add Userscript
 
 Install the userscript from claude-counter.user.js
+
 How it works
 Intercepts Claude's API responses to read conversation data and usage info
 Uses a vendored tokenizer (o200k_base) for approximate token counting
