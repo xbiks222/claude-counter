@@ -3,6 +3,9 @@ A minimal browser extension that shows token count, cache timer, and usage bars 
 
 Claude Counter screenshot
 
+<img width="1520" height="708" alt="image" src="https://github.com/user-attachments/assets/7e4571b7-0474-4f2a-945a-99a626cf38f9" />
+
+
 Features
 Token count — Approximate token count for the current conversation, with a mini progress bar against the 200k context limit
 Cache timer — Countdown showing how long the conversation remains cached (cheaper to continue)
